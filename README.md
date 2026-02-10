@@ -69,10 +69,10 @@ My interests lie in **full-stack development, real-time systems, dark-themed UI/
 
 [![](https://visitcount.itsvg.in/api?id=ItsShannu44&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ItsShannu44&theme=transparent&include_all_commits=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ItsShannu44&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsShannu44&theme=transparent&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsShannu44&theme=transparent&layout=compact)-->
 
 
 <!--<picture>
