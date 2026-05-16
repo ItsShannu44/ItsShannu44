@@ -42,7 +42,7 @@ My interests lie in **full-stack development, real-time systems, dark-themed UI/
 ---
 
 ## 📩 Let’s Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shannu.io)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shannu.404)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukha-bhat-3479b1277)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shanmukhakabbinagadde@gmail.com)
 
