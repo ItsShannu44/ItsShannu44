@@ -5,6 +5,8 @@
 🎓 MCA Student at PES University
 💻 Full-Stack Developer | UI/UX Designer | Open Source Enthusiast
 
+🌐 **Portfolio:** https://shanmukha.onrender.com
+
 Passionate about building scalable web applications, real-time systems, and intuitive user experiences. I enjoy transforming ideas into clean, functional, and visually engaging products.
 
 ---
@@ -21,14 +23,25 @@ Passionate about building scalable web applications, real-time systems, and intu
 
 ## 🏆 Highlights
 
+* 🥇 **1st Place – Abhyuday IT Fest 2026 (MSRIT)**
 * 🏅 Selected for **Winter of Code 2026**
 * 👨‍💻 Chief Developer – **Navonmesh 2024 Website**
 * 🥈 Second Prize – **IT Quiz, Joshiana 3.0**
 * 🏁 Finalist – **CANTECH 2025 Web Design Competition**
-
 ---
 
-## 💡 Featured Project
+## 💡 Featured Projects
+
+### Smart Credit Limit Recommender
+
+A machine learning-based system that predicts and recommends optimal credit card limits based on customer financial profiles and spending behavior.
+
+**Key Features**
+
+* Data preprocessing and feature engineering
+* Predictive modeling using Machine Learning
+* Credit limit recommendation engine
+* Performance evaluation using R² Score and regression metrics
 
 ### KwikChat
 
@@ -40,6 +53,7 @@ A real-time messaging platform built with Flask and Socket.IO.
 * Voice-to-text input
 * User profiles and theme customization
 * Responsive and modern UI
+
 
 ---
 
