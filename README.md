@@ -23,7 +23,7 @@ Passionate about building scalable web applications, real-time systems, and intu
 
 ## 🏆 Highlights
 
-* 🥇 **1st Place – Abhyuday IT Fest 2026 (MSRIT)**
+* 🥇 **1st Place (UI/UX) – Abhyuday IT Fest 2026 (MSRIT)**
 * 🏅 Selected for **Winter of Code 2026**
 * 👨‍💻 Chief Developer – **Navonmesh 2024 Website**
 * 🥈 Second Prize – **IT Quiz, Joshiana 3.0**
