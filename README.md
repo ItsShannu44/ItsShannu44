@@ -1,125 +1,77 @@
 <img src="Freelance BG.jpg" alt="GitHub Banner" width="100%" />
 
-# Shanmukha Bhat
+# Hi, I'm Shanmukha Bhat 👋
 
-### Full-Stack Developer · UI/UX Designer · MCA Student
+### Full-Stack Developer · UI/UX Designer · Cloud & DevOps Enthusiast
 
-I'm an **MCA student at PES University** and a full-stack developer focused on building **scalable web applications, real-time systems, and intuitive digital experiences**.
+MCA student at **PES University** passionate about building **modern web applications, real-time systems, and user-focused digital products**. Currently expanding my skills in **AWS, DevOps, and cloud technologies**.
 
-My development experience spans modern frontend frameworks, backend engineering, databases, cloud platforms, and UI/UX design. I enjoy turning ideas into **well-structured, functional, and visually polished products**.
-
-🌐 **Portfolio:** [shanmukha.onrender.com](https://shanmukha.onrender.com)
+🌐 **Portfolio:** https://shanmukha.onrender.com
 
 ---
 
-## About
+## 🚀 About Me
 
-* 🎓 Pursuing **Master of Computer Applications (MCA)** at PES University
-* 💻 Building modern web applications with **Next.js, React, JavaScript, and Node.js**
-* ⚙️ Developing backend services and APIs using **Python, Flask, and Node.js**
-* ⚡ Building real-time applications with **Socket.IO**
-* 🗄️ Working with **MongoDB, MySQL, and SQLite**
-* 🎨 Designing user-focused interfaces with an emphasis on **UI/UX and usability**
-* ☁️ Exploring **AWS, cloud architecture, and modern deployment workflows**
-* 🔍 Interested in **software engineering, system design, and scalable application development**
+* 💻 Full-stack development with **Next.js, React, JavaScript, Python, Flask & Node.js**
+* ⚡ Real-time applications using **Socket.IO**
+* 🗄️ Experience with **MongoDB, MySQL & SQLite**
+* ☁️ Learning **AWS cloud services & DevOps**
+* 🔄 Working with **CI/CD, GitHub Actions & Docker**
+* 🎨 Interested in **UI/UX and scalable application development**
 
 ---
 
-## Recognition & Achievements
+## 🏆 Achievements
 
 * 🥇 **1st Place – UI/UX** — Abhyuday IT Fest 2026, MSRIT
-* 🏅 **Selected Participant** — Winter of Code 2026
+* 🏅 **Selected** — Winter of Code 2026
 * 👨‍💻 **Chief Developer** — Navonmesh 2024 Website
 * 🥈 **Second Prize – IT Quiz** — Joshiana 3.0
 * 🏁 **Finalist** — CANTECH 2025 Web Design Competition
 
 ---
 
-## Featured Projects
+## 💡 Featured Projects
 
 ### 💳 Smart Credit Limit Recommender
 
-A machine-learning-driven application designed to **analyze customer financial profiles and spending behavior to recommend appropriate credit limits**.
+ML-based system that analyzes financial profiles and spending behavior to recommend suitable credit limits.
 
-**Key Contributions**
-
-* Designed data preprocessing and feature-engineering workflows
-* Implemented predictive machine-learning models
-* Developed a credit-limit recommendation pipeline
-* Evaluated model performance using **R² score and regression metrics**
-
----
+**Tech:** `Python` `Machine Learning` `Data Analysis`
 
 ### 💬 KwikChat
 
-A **real-time web-based messaging platform** built with Flask and Socket.IO, designed around responsive communication and a modern user experience.
+Real-time messaging platform focused on reliable communication and a modern user experience.
 
-**Key Features**
-
-* Real-time bidirectional messaging
-* Voice-to-text communication
-* User profiles and profile customization
-* Online/offline presence
-* Theme customization
-* Responsive chat interface
-* Real-time message synchronization
+**Tech:** `Flask` `Socket.IO` `SQLite` `JavaScript`
 
 ---
 
-## Technical Expertise
+## 🛠️ Tech Stack
 
-### Languages
-
+**Languages**
 `JavaScript` `Python` `Java` `SQL`
 
-### Frontend
+**Frontend**
+`Next.js` `React` `HTML` `CSS`
 
-`Next.js` `React` `HTML5` `CSS3`
+**Backend**
+`Flask` `Node.js` `Socket.IO`
 
-### Backend
-
-`Node.js` `Flask` `Socket.IO` `REST APIs`
-
-### Databases
-
+**Databases**
 `MongoDB` `MySQL` `SQLite`
 
-### Cloud & Deployment
+**Cloud & DevOps**
+`AWS` `Docker` `GitHub Actions` `Vercel` `Render`
 
-`AWS` `Vercel` `Render` `Cloudflare`
-
-### Development & Design
-
-`Git` `GitHub` `Figma`
+**Design & Tools**
+`Figma` `Git` `GitHub`
 
 ---
 
-## Areas of Interest
-
-**Full-Stack Engineering**
-Designing and developing complete applications across the frontend, backend, database, and deployment layers.
-
-**Modern Web Development**
-Building performant and maintainable applications using technologies such as **Next.js, React, and Node.js**.
-
-**Real-Time Applications**
-Developing event-driven systems that require real-time communication, synchronization, and presence management.
-
-**UI/UX Engineering**
-Combining interface design and frontend development to create intuitive and engaging user experiences.
-
-**Cloud & Scalable Systems**
-Exploring cloud platforms, deployment architectures, and approaches for building reliable applications at scale.
-
----
-
-## Connect
+## 📫 Connect With Me
 
 🌐 **Portfolio:** [shanmukha.onrender.com](https://shanmukha.onrender.com)
-
 💻 **GitHub:** [github.com/ItsShannu44](https://github.com/ItsShannu44)
 
----
-
-### Building thoughtful software where engineering meets design.
-
+### Building, learning, and shipping — one project at a time.
