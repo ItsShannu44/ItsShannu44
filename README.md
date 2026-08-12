@@ -72,6 +72,5 @@ Real-time messaging platform focused on reliable communication and a modern user
 ## 📫 Connect With Me
 
 🌐 **Portfolio:** [shanmukha.onrender.com](https://shanmukha.onrender.com)
-💻 **GitHub:** [github.com/ItsShannu44](https://github.com/ItsShannu44)
 
 ### Building, learning, and shipping — one project at a time.
