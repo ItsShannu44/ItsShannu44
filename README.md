@@ -74,7 +74,3 @@ Real-time messaging platform focused on reliable communication and a modern user
 🌐 **Portfolio:** [shanmukha.onrender.com](https://shanmukha.onrender.com)
 
 ### Building, learning, and shipping — one project at a time.
-
-## 📊 Language Statistics
-
-![Language Stats](stats/leaderboard_by_lines.png)
