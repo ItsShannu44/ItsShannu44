@@ -77,4 +77,5 @@ Real-time messaging platform focused on reliable communication and a modern user
 
 ## 📊 Language Statistics
 
-![Language Stats](stats/leaderboard_by_lines.png)
+### By Repositories
+![Language Statistics by Repositories](stats/leaderboard_by_repos.png)
