@@ -15,6 +15,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check STATS_TOKEN
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "❌ STATS_TOKEN is EMPTY"
+            exit 1
+          else
+            echo "✅ STATS_TOKEN is available"
+          fi
+
       - uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
