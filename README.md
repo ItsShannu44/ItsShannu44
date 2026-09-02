@@ -75,3 +75,6 @@ Real-time messaging platform focused on reliable communication and a modern user
 
 ### Building, learning, and shipping — one project at a time.
 
+## 📊 Language Statistics
+
+![Language Stats](stats/leaderboard_by_lines.png)
