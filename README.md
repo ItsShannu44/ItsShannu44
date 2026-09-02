@@ -75,4 +75,3 @@ Real-time messaging platform focused on reliable communication and a modern user
 
 ### Building, learning, and shipping — one project at a time.
 
-![Language Stats](https://raw.githubusercontent.com/ItsShannu44/ItsShannu44/main/stats/leaderboard_by_lines.png)
