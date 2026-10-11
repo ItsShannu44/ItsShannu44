@@ -4,7 +4,7 @@ Full-Stack Developer · UI/UX Designer · Cloud & DevOps Enthusiast
 
 MCA student at PES University, passionate about building modern web applications and real-time systems.
 
-🌐 Portfolio: "shanmukha.onrender.com" (https://shanmukha.onrender.com)
+🌐 Portfolio: https://shanmukha.onrender.com
 
 ---
 
