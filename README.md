@@ -55,8 +55,4 @@ Design & Tools: "Figma" "Git" "GitHub"
 
 ---
 
-📫 Connect With Me
-
-🌐 "Portfolio" (https://shanmukha.onrender.com) · 💻 "GitHub" (https://github.com/ItsShannu44)
-
 Building, learning, and shipping — one project at a time.
