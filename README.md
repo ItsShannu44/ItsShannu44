@@ -1,76 +1,49 @@
-<img src="Freelance BG.jpg" alt="GitHub Banner" width="100%" />
+Hi, I'm Shanmukha Bhat 👋
 
-# Hi, I'm Shanmukha Bhat 👋
+Full-Stack Developer | UI/UX Designer | Cloud & DevOps Enthusiast
 
-### Full-Stack Developer · UI/UX Designer · Cloud & DevOps Enthusiast
+MCA student at PES University, building modern web applications and real-time systems while exploring cloud technologies and DevOps.
 
-MCA student at **PES University** passionate about building **modern web applications, real-time systems, and user-focused digital products**. Currently expanding my skills in **AWS, DevOps, and cloud technologies**.
+🌐 Portfolio: "shanmukha.onrender.com" (https://shanmukha.onrender.com)
 
-🌐 **Portfolio:** https://shanmukha.onrender.com
+🏆 Achievements
 
----
+- 🥇 1st Place – UI/UX, Abhyuday IT Fest 2026, MSRIT
+- 🥈 1st Runner-Up – CBC 2.0 Hackathon, Team FLUXWAVE
+- 🏅 Selected for Winter of Code 2026
+- 🥈 Second Prize – IT Quiz, Joshiana 3.0
 
-## 🚀 About Me
+🚀 Featured Projects
 
-* 💻 Full-stack development with **Next.js, React, JavaScript, Python, Flask & Node.js**
-* ⚡ Real-time applications using **Socket.IO**
-* 🗄️ Experience with **MongoDB, MySQL & SQLite**
-* ☁️ Learning **AWS cloud services & DevOps**
-* 🔄 Working with **CI/CD, GitHub Actions & Docker**
-* 🎨 Interested in **UI/UX and scalable application development**
+🎓 VidyaSutra
 
----
+Scholarship eligibility and application management platform with explainable matching, document validation, and deadline tracking.
 
-## 🏆 Achievements
+Tech: React · Node.js · PostgreSQL · Docker
 
-* 🥇 **1st Place – UI/UX** — Abhyuday IT Fest 2026, MSRIT
-* 🏅 **Selected** — Winter of Code 2026
-* 👨‍💻 **Chief Developer** — Navonmesh 2024 Website
-* 🥈 **Second Prize – IT Quiz** — Joshiana 3.0
-* 🏁 **Finalist** — CANTECH 2025 Web Design Competition
+💬 KwikChat
 
----
+Real-time messaging application with instant communication and a modern user interface.
 
-## 💡 Featured Projects
+Tech: Flask · Socket.IO · SQLite · JavaScript
 
-### 💳 Smart Credit Limit Recommender
+💳 Smart Credit Limit Recommender
 
-ML-based system that analyzes financial profiles and spending behavior to recommend suitable credit limits.
+Machine learning project that analyzes financial profiles to recommend suitable credit limits.
 
-**Tech:** `Python` `Machine Learning` `Data Analysis`
+Tech: Python · Machine Learning · Data Analysis
 
-### 💬 KwikChat
+🛠️ Tech Stack
 
-Real-time messaging platform focused on reliable communication and a modern user experience.
+- Languages: JavaScript, Python, Java, SQL
+- Frontend: React, Next.js, HTML, CSS
+- Backend: Node.js, Flask, Socket.IO
+- Databases: PostgreSQL, MongoDB, MySQL, SQLite
+- Cloud & DevOps: AWS, Docker, GitHub Actions, Render
+- Design & Tools: Figma, Git, GitHub
 
-**Tech:** `Flask` `Socket.IO` `SQLite` `JavaScript`
+📫 Connect With Me
 
----
+🌐 "Portfolio" (https://shanmukha.onrender.com) · 💻 "GitHub" (https://github.com/ItsShannu44)
 
-## 🛠️ Tech Stack
-
-**Languages**
-`JavaScript` `Python` `Java` `SQL`
-
-**Frontend**
-`Next.js` `React` `HTML` `CSS`
-
-**Backend**
-`Flask` `Node.js` `Socket.IO`
-
-**Databases**
-`MongoDB` `MySQL` `SQLite`
-
-**Cloud & DevOps**
-`AWS` `Docker` `GitHub Actions` `Vercel` `Render`
-
-**Design & Tools**
-`Figma` `Git` `GitHub`
-
----
-
-## 📫 Connect With Me
-
-🌐 **Portfolio:** [shanmukha.onrender.com](https://shanmukha.onrender.com)
-
-### Building, learning, and shipping — one project at a time.
+Building meaningful products, one project at a time.
